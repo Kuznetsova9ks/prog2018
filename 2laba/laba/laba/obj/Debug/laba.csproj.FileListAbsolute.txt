@@ -1,0 +1,6 @@
+C:\Users\Ksenya Andreevna\Desktop\Программирование\4 сем GitHub\2lab\laba\laba\bin\Debug\laba.exe.config
+C:\Users\Ksenya Andreevna\Desktop\Программирование\4 сем GitHub\2lab\laba\laba\bin\Debug\laba.exe
+C:\Users\Ksenya Andreevna\Desktop\Программирование\4 сем GitHub\2lab\laba\laba\bin\Debug\laba.pdb
+C:\Users\Ksenya Andreevna\Desktop\Программирование\4 сем GitHub\2lab\laba\laba\obj\Debug\laba.csprojResolveAssemblyReference.cache
+C:\Users\Ksenya Andreevna\Desktop\Программирование\4 сем GitHub\2lab\laba\laba\obj\Debug\laba.exe
+C:\Users\Ksenya Andreevna\Desktop\Программирование\4 сем GitHub\2lab\laba\laba\obj\Debug\laba.pdb
